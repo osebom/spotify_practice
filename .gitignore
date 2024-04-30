@@ -1,0 +1,4 @@
+/spot
+/__pycache__
+/.cache
+/secrets__.py
