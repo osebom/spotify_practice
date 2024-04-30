@@ -1,4 +1,4 @@
-spot/
-__pycache__/
-.cache
-secrets__.py
+/spot
+/__pycache__
+/.cache
+/secrets__.py
